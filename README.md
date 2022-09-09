@@ -1,0 +1,2 @@
+# eg-log-redirector
+## TEST
